@@ -2,7 +2,7 @@
 
 [![license](https://custom-icon-badges.demolab.com/github/license/brycked/template?logo=law)](LICENSE.md)
 
-A template for my projects.
+A template for PowerShell projects.
 
 ## ToDo
 
@@ -13,4 +13,4 @@ A template for my projects.
 
 ## Usage
 
-`template` can be used as a template for my projects.
+`template` can be used as a template for PowerShell projects.
